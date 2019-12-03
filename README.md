@@ -2,4 +2,4 @@
 12x12 Sudoku game with three boards.
 
 ## Instructions
-![](intstructions.png)
+![](instructions.PNG)
